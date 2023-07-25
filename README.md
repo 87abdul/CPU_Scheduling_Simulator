@@ -2,11 +2,7 @@
 ==================================
 <br/>
 
-
-##  [Abdul Rahman](https://github.com/87abdul)
-<br/>
-
-# The CPU Scheduling Simulator is a command-line based program developed in C that emulates various CPU scheduling algorithms used in modern operating systems.This simulator provides a valuable tool for understanding and comparing different scheduling strategies, allowing developers and system administrators to optimize the performance and efficiency of their systems.
+ ## The CPU Scheduling Simulator is a command-line based program developed in C that emulates various CPU scheduling algorithms used in modern operating systems.This simulator provides a valuable tool for understanding and comparing different scheduling strategies, allowing developers and system administrators to optimize the performance and efficiency of their systems.
 
 ## Key Features:
 
